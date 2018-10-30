@@ -12,6 +12,7 @@ namespace _2D_Array
         {
             int[,] a = new int[3, 3] {{7,1,8},{1,2,6},{4,5,2} };
             twoarray c = new twoarray();
+            int k=5;
             c.print(a);
             c.add(a);
             Console.Read();
