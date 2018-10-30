@@ -14,6 +14,8 @@ namespace _2D_Array
             twoarray c = new twoarray();
             int y=0;
             int k=5;
+            int p=12;
+            
             c.print(a);
             c.add(a);
             Console.Read();
