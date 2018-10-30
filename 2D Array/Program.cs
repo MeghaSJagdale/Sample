@@ -17,6 +17,8 @@ namespace _2D_Array
             c.print(a);
             c.add(a);
             Console.Read();
+
+            int m=12;
         }
     }
 }
